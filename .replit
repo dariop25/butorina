@@ -1,0 +1,11 @@
+# Usa Node.js runtime
+run = "npm run dev"
+
+# Configurazione ambiente Replit
+[env]
+  NODE_ENV = "development"
+  SUPABASE_URL = "https://<TUO_PROJECT_ID>.supabase.co"
+  SUPABASE_ANON_KEY = "<LA_TUA_ANON_KEY>"
+
+# Linguaggio del progetto
+language = "nodejs"
